@@ -15,3 +15,5 @@ Respecto a los contraste, la diferencia porcentual entre las denuncias por robo 
 Para finalizar, queda simplemente recorrer rápidamente los demás gráficos para comprobar entre las diferencias porcentuales de años y trimestres que no escapan a esta misma lógica de comportamiento. 
 
 ![Trimestre](https://user-images.githubusercontent.com/60670785/167318809-67ab5a5b-9c8d-465b-9cf7-52a74184168a.png)
+
+https://github.com/datos-justicia-argentina/dnrpa-robos-recuperos-autos/blob/master/dnrpa-robos-recuperos-autos-metadata.md
